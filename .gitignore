@@ -1,0 +1,44 @@
+desktop.ini
+master/modules/.metadata/
+DevConfigSync/.MD5hashes
+*.md5
+HieraRails/.idea
+#Ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+.vs
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+# Ignore build folder
+[Bb]uild/
+# Ignore NuGet packages - NuGet package auto restore will pull these down if necessary
+[Pp]ackages/
+# Ignore diff files
+*.orig
+# Ignore merged hieradata
+[Mm]erged/
+#Ignore Visual studio folder
+.vs
